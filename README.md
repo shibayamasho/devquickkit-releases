@@ -1,6 +1,6 @@
 # DevQuickKit — Releases
 
-日本人エンジニアのための開発ツール集(macOS)の**配布用リポジトリ**です。
+開発の定番ツールを1つにまとめた macOS アプリの**配布用リポジトリ**です。
 
 - 製品サイト: https://devquickkit.com
 - 最新版のダウンロード → [Releases](https://github.com/shibayamasho/devquickkit-releases/releases)
