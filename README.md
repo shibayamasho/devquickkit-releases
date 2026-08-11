@@ -6,7 +6,7 @@
 - 最新版のダウンロード → [Releases](https://github.com/shibayamasho/devquickkit-releases/releases)
 
 ## 動作環境
-- Apple Silicon(M1 以降)専用 / macOS 11.0 以降
+- Apple Silicon(M1 以降)専用 / macOS 14 Sonoma 以降
 - Intel Mac は非対応
 
 ## ダウンロードの検証
